@@ -1,0 +1,20 @@
+footer h3{
+    color:#fff;
+} 
+footer p{
+    color:#fff;
+} 
+footer a{
+    color:#fff;
+} 
+footer{
+    background-color: #ff6400;
+    padding:20px;
+} 
+footer ul {
+    margin:0px;
+    padding:0px;
+}
+footer ul li{
+    list-style-type:none;
+}

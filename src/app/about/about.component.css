@@ -1,0 +1,13 @@
+img{
+    width:100%;
+}
+.about h2{
+    text-align:center;
+    color:#ff6400;
+}
+.about p{
+    text-align:center;
+}
+.features p {
+    text-align:justify;
+}

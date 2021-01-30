@@ -1,0 +1,77 @@
+
+.basic{
+    background:#fff;
+    box-shadow: 0 10px 29px 0 rgba(0, 0, 0, 0.3);
+    padding:30px;
+    border-radius:10px;
+}
+.basic-1{
+  text-align:center;
+
+ 
+}.basic-1 h4{
+  font-size:bold;
+   
+  }
+.basic-2 ul li{
+    list-style-type: none;
+    background: url('/assets/tick.png') no-repeat left top;
+    padding: 3px 0px 3px 35px;
+}
+.service{
+    background:url('/assets/service-banner.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.service h2{
+    text-align:center;
+    padding:10px;
+    color: #ff6400;
+}
+.service p{
+    text-align:center;
+}
+.get-started{
+    background-color: #ff6400;
+}
+.get-started h3{
+  
+   color:#fff;
+}
+.get-started p{
+  
+    text-align:right;
+ }
+ .btn-started{
+    
+     border:3px solid #fff;
+     padding:10px;
+     color:#fff;
+ }
+ .btn-started:hover{
+    
+  background-color: #1bb1dc;
+  border:3px solid #1bb1dc;
+  text-decoration: none;
+  transition: 0.9s;
+    
+}
+.comments{
+    text-align:center;
+    padding-bottom: 40px;
+}
+.testimonial{
+    background: url("/assets/test-bg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.testimonial h3{
+  text-align:center;
+  color:#ff6400;
+}
+.testimonial p{
+  
+    color:#fff;
+    text-align:center;
+  }

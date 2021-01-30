@@ -1,0 +1,10 @@
+/* You can add global styles to this file, and also import other style files */
+/* @import "~bootstrap/dist/css/bootstrap.css" */
+
+.inner-banner-image img{
+  width:100%;
+}
+.padding{
+   padding-top:50px;
+   padding-bottom:50px;
+}

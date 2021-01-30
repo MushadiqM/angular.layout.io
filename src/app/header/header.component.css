@@ -1,0 +1,22 @@
+.top-bar{
+    background-color: #ff6400;
+    
+}
+.top-bar a{
+    color:#fff;
+    padding-top:5px;
+}
+.top-bar p{
+    padding-top:10px;
+}
+
+.navbar {
+    padding: 0.9rem 1rem;
+ 
+}
+.bg-meroon{
+    background: #6A0101 !important;
+}
+.navbar li a{
+    color:#fff !important;
+}
